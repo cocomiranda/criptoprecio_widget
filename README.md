@@ -3,7 +3,7 @@
 ### Widget web para ser añadido a cualquier sitio web.
 
 Simplemente se debe copiar la siguiente linea de codigo:
-> <iframe src="https://critoprecio-widget.netlify.app" style="display:block; width:315px; height:310px;" frameborder="0"></iframe> 
+> <iframe src="https://critoprecio-widget.netlify.app" style="display:block; width:340px; height:320px;" frameborder="0"></iframe> 
   
 <br/>  
 
